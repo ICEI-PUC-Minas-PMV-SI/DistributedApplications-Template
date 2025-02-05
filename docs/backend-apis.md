@@ -13,25 +13,9 @@ O primeiro passo é definir os objetivos da sua API. O que você espera alcança
 [Inclua os objetivos da sua api.]
 
 
-## Arquitetura
-
-[Descrição da arquitetura das APIs, incluindo os componentes e suas interações.]
-
 ## Modelagem da Aplicação
 [Descreva a modelagem da aplicação, incluindo a estrutura de dados, diagramas de classes ou entidades, e outras representações visuais relevantes.]
 
-
-## Fluxo de Dados
-
-[Diagrama ou descrição do fluxo de dados na aplicação.]
-
-## Requisitos Funcionais
-
-[Liste os principais requisitos funcionais da aplicação.]
-
-## Requisitos Não Funcionais
-
-[Liste os principais requisitos não funcionais da aplicação, como desempenho, segurança, escalabilidade, etc.]
 
 ## Tecnologias Utilizadas
 
@@ -67,7 +51,6 @@ Existem muitas tecnologias diferentes que podem ser usadas para desenvolver APIs
       }
     }
     ```
-
 
 ## Considerações de Segurança
 
