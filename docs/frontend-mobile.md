@@ -2,43 +2,24 @@
 
 [Inclua uma breve descrição do projeto e seus objetivos.]
 
-## Tecnologias Utilizadas
-[Lista das tecnologias principais que serão utilizadas no projeto.]
-
-## Arquitetura
-
-[Descrição da arquitetura das aplicação móvel, incluindo os componentes e suas interações.]
-
-## Modelagem da Aplicação
-[Descreva a modelagem da aplicação, incluindo a estrutura de dados, diagramas de classes ou entidades, e outras representações visuais relevantes.]
-
 ## Projeto da Interface
 [Descreva o projeto da interface móvel da aplicação, incluindo o design visual, layout das páginas, interações do usuário e outros aspectos relevantes.]
 
 ### Wireframes
+
 [Inclua os wireframes das páginas principais da interface, mostrando a disposição dos elementos na página.]
 
 ### Design Visual
+
 [Descreva o estilo visual da interface, incluindo paleta de cores, tipografia, ícones e outros elementos gráficos.]
-
-### Layout Responsivo
-[Discuta como a interface será adaptada para diferentes tamanhos de tela e dispositivos.]
-
-### Interações do Usuário
-[Descreva as interações do usuário na interface, como animações, transições entre páginas e outras interações.]
 
 ## Fluxo de Dados
 
 [Diagrama ou descrição do fluxo de dados na aplicação.]
 
-## Requisitos Funcionais
+## Tecnologias Utilizadas
 
-[Liste os principais requisitos funcionais da aplicação.]
-
-## Requisitos Não Funcionais
-
-[Liste os principais requisitos não funcionais da aplicação, como desempenho, segurança, escalabilidade, etc.]
-
+[Lista das tecnologias principais que serão utilizadas no projeto.]
 
 ## Considerações de Segurança
 
