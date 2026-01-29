@@ -2,9 +2,8 @@ name: Contribution Tracker
 
 on:
   schedule:
-    # Roda toda segunda-feira às 00:00 UTC
     - cron: '0 0 * * 1'
-  workflow_dispatch: # Permite execução manual
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -19,14 +18,13 @@ permissions:
 jobs:
   track-contributions:
     runs-on: ubuntu-latest
-    # Não executa no repositório template - apenas nos forks/cópias dos alunos
     if: ${{ !contains(github.repository, 'Template') }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Busca todo o histórico para análise completa
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
