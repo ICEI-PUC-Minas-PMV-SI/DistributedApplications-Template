@@ -10,16 +10,29 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* [Nome completo do aluno 1](docs/atas/aluno1.md)
+* [Nome completo do aluno 2](docs/atas/aluno2.md)
+* [Nome completo do aluno 3](docs/atas/aluno3.md)
+* [Nome completo do aluno 4](docs/atas/aluno4.md)
+* [Nome completo do aluno 5](docs/atas/aluno5.md)
+* [Nome completo do aluno 6](docs/atas/aluno6.md)
 
 ## Orientador
 
 * Nome completo do professor 1
+
+## 📊 Relatório de Contribuições
+
+Este projeto possui rastreamento automático de contribuições individuais. O relatório é atualizado automaticamente toda segunda-feira e a cada push no repositório.
+
+**[📈 Ver Relatório Completo de Contribuições](docs/CONTRIBUTION_REPORT.md)**
+
+O relatório inclui:
+- Commits por autor
+- Linhas de código adicionadas/removidas
+- Arquivos modificados
+- Contribuições em documentação
+- Gráficos de participação semanal
 
 # Planejamento
 
